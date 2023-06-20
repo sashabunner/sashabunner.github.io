@@ -906,7 +906,7 @@ span.typed {
     right: 0;
     left: 0;
     bottom: 0;
-    background: rgba(14, 14, 14, 0.24);
+    background-image: url("img/yourImage.png");
 }
 
 .start-page .title-block {
